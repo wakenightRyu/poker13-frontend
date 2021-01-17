@@ -1,0 +1,25 @@
+.login-input {
+    position: absolute;
+    height: 38px;
+    width: 220px;
+    border-radius: 6px;
+    border: 0px solid;
+    font-size: 18px;
+    padding: 10px 10px 10px 10px;
+    left: 40px;
+    background-color: rgba(255,255,255, 0.1);
+    color: white;
+    
+}
+
+.login-input:focus {
+    outline: none;
+}
+
+.name-input {
+    top: 300px;
+}
+
+.password-input {
+    top: 360px;
+}
